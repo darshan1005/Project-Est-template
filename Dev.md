@@ -1,5 +1,3 @@
----
-
 ## 🔧 1. Smart Environment Config Validator
 
 **Idea:** A package that validates `.env` files at runtime with clear errors.
